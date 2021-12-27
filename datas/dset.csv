@@ -1,0 +1,51 @@
+intr,Name,Net,Age,Natn,Biz
+0,Jeff Bezos,177.0,57,United States,Amazon
+1,Elon Musk,151.0,49,United States,"Tesla, SpaceX"
+2,Bernard Arnault & family,150.0,72,France,LVMH
+3,Bill Gates,124.0,65,United States,Microsoft
+4,Mark Zuckerberg,97.0,36,United States,Meta Platforms
+5,Warren Buffett,96.0,90,United States,Berkshire Hathaway
+6,Larry Ellison,93.0,76,United States,Oracle Corporation
+7,Larry Page,91.5,48,United States,Alphabet Inc.
+8,Sergey Brin,89.0,47,United States,Alphabet Inc.
+9,Mukesh Ambani,84.5,63,India,Reliance Industries
+0,Jeff Bezos,113.0,56,United States,Amazon
+1,Bill Gates,98.0,64,United States,Microsoft
+2,Bernard Arnault & family,76.0,71,France,LVMH
+3,Warren Buffett,67.5,89,United States,Berkshire Hathaway
+4,Larry Ellison,59.0,75,United States,Oracle Corporation
+5,Amancio Ortega,55.1,84,Spain,"Inditex, Zara"
+6,Mark Zuckerberg,54.7,35,United States,"Facebook, Inc."
+7,Jim Walton,54.6,71,United States,Walmart
+8,Alice Walton,54.4,70,United States,Walmart
+9,S. Robson Walton,54.1,77,United States,Walmart
+0,Jeff Bezos,131.0,55,United States,Amazon
+1,Bill Gates,96.5,63,United States,Microsoft
+2,Warren Buffett,82.5,88,United States,Berkshire Hathaway
+3,Bernard Arnault,76.0,70,France,LVMH
+4,Carlos Slim,64.0,79,Mexico,"América Móvil, Grupo Carso"
+5,Amancio Ortega,62.7,82,Spain,"Inditex, Zara"
+6,Larry Ellison,62.5,74,United States,Oracle Corporation
+7,Mark Zuckerberg,62.3,34,United States,"Facebook, Inc."
+8,Michael Bloomberg,55.5,77,United States,Bloomberg L.P.
+9,Larry Page,50.8,45,United States,Alphabet Inc.
+0,Jeff Bezos,112.0,54,United States,Amazon
+1,Bill Gates,90.0,62,United States,Microsoft
+2,Warren Buffett,84.0,87,United States,Berkshire Hathaway
+3,Bernard Arnault,72.0,69,France,LVMH
+4,Mark Zuckerberg,71.0,33,United States,"Facebook, Inc."
+5,Amancio Ortega,70.0,81,Spain,"Inditex, Zara"
+6,Carlos Slim,67.1,78,Mexico,"América Móvil, Grupo Carso"
+7,Charles Koch,60.0,82,United States,Koch Industries
+8,David Koch,60.0,77,United States,Koch Industries
+9,Larry Ellison,58.5,73,United States,Oracle Corporation
+0,Bill Gates,86.0,61,United States,Microsoft
+1,Warren Buffett,75.6,86,United States,Berkshire Hathaway
+2,Jeff Bezos,72.8,53,United States,Amazon
+3,Amancio Ortega,71.3,80,Spain,"Inditex, Zara"
+4,Mark Zuckerberg,56.0,32,United States,"Facebook, Inc."
+5,Carlos Slim,54.5,77,Mexico,"América Móvil, Grupo Carso"
+6,Larry Ellison,52.2,72,United States,Oracle Corporation
+7,Charles Koch,48.3,81,United States,Koch Industries
+8,David Koch,48.3,76,United States,Koch Industries
+9,Michael Bloomberg,47.5,75,United States,Bloomberg L.P.
